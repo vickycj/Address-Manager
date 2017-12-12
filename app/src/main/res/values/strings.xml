@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Address Manager</string>
+    <string name="sign_out_title">Sign out</string>
+    <string name="name_placeholder">Address Name</string>
+    <string name="postal_placeholder">Pin Code</string>
+    <string name="address_placeholder">Full Address</string>
+    <string name="save_button_placeholder">Save</string>
+    <string name="cancel_button_placeholder">Cancel</string>
+    <string name="address_error">Address Name cannot be empty</string>
+    <string name="address_full_error">Full Address cannot be empty</string>
+    <string name="address_saved_message">Saved Successfully</string>
+    <string name="address_title">Add Address</string>
+    <string name="edit_address_title">Edit Address</string>
+    <string name="delete_text">Delete</string>
+    <string name="deleted_success">One Address Deleted</string>
+    <string name="action_search">Search</string>
+    <string name="search_hint">Type address or name</string>
+    <string name="edit_text">Edit</string>
+    <string name="share_using">Share using</string>
+    <string name="share_subject">Address Detail</string>
+    <string name="undo_text">UNDO</string>
+    <string name="sub_text">Don\'t get lost</string>
+</resources>
